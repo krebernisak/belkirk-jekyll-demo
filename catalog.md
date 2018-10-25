@@ -9,9 +9,15 @@ hero_button:
   text: ''
   href: ''
 textline: asdada
-services: []
+services:
+- heading: ''
+  description: ''
+  icon: ''
 show_news: false
-partners: []
+partners:
+- "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
+- "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
+- "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
 show_staff: false
 
 ---
